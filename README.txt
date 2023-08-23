@@ -1,5 +1,5 @@
-1 download the Download ZIP in the code button of gitHub
+1 download the zip file that is in the button code
 2 unzip the file
-3 open the project with Visual studio 2022
-4 press play
-5 follow the instructions that appear on the console
+3 open it with visual studio 2022
+4 run the project
+5 follow the instructions
